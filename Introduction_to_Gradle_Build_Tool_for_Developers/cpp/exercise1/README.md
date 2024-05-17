@@ -55,7 +55,7 @@ Enter selection (default: Java) [1..6] 1
 Select build script DSL:
   1: Groovy
   2: Kotlin
-Enter selection (default: Groovy) [1..2] 1
+Enter selection (default: Kotlin) [1..2] 1
 
 Project name (default: lab): 
 Generate build using new APIs and behavior (some features may change in the next minor release)? (default: no) [yes, no]

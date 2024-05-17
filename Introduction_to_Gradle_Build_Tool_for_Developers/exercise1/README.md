@@ -60,7 +60,7 @@ Generate multiple subprojects for application? (default: no) [yes, no]
 Select build script DSL:
   1: Groovy
   2: Kotlin
-Enter selection (default: Groovy) [1..2] 2
+Enter selection (default: Kotlin) [1..2]
 
 Select test framework:
   1: JUnit 4
@@ -70,7 +70,6 @@ Select test framework:
 Enter selection (default: JUnit Jupiter) [1..4] 
 
 Project name (default: lab): 
-Source package (default: lab): com.gradle.lab
 Enter target version of Java (min. 7) (default: 11):
 Generate build using new APIs and behavior (some features may change in the next minor release)? (default: no) [yes, no]
 ```
